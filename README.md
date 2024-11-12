@@ -1,1 +1,2 @@
 # Certificate-Verification
+The Certificate Verification System is a MERN stack project designed to verify issued certificates through a unique certificate ID. The backend, built using Express and MongoDB, stores certificate details, while the React frontend provides an interface for users to input certificate IDs and retrieve certificate information. This system ensures a secure and reliable way to validate certifications.
